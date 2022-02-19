@@ -1,0 +1,27 @@
+table {
+  border-collapse: collapse ;
+ }
+ th, td {
+  border: 1px solid black;
+ }
+ img{ 
+  width: 100px
+ }
+ body {
+  background: linear-gradient(to left, #CCFFFF, #99FF66)
+ }
+td,th{
+  color: black;
+  font-size: 12px;
+  border: 1px solid black;
+}
+th:hover{
+  color: darkred;
+  font-size: 18px;
+  border: 3px darkred;
+}
+td:hover{
+  color: darkred;
+  font-size: 18px;
+  border: 3px darkred;
+}

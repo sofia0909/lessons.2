@@ -1,0 +1,20 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.container{
+    color: darkred;
+    font-size: 100px;
+    margin: 15px;
+}
+.container-a{
+    color: darksalmon;
+    font-size: 100px;
+    margin: 15px;
+}
+.container-a:hover{
+    color: darkturquoise;
+    
+}
